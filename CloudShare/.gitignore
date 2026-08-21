@@ -1,0 +1,9 @@
+target/
+.idea/
+*.class
+.env
+uploads/*
+!uploads/.gitkeep
+__pycache__/
+*.pyc
+node_modules/
