@@ -183,5 +183,5 @@ For the Razorpay AI Builder submission, the accompanying pitch demonstrates the 
 
 ## Author
 
-**Khush**
+**Khushi**
 Razorpay AI Builder 2026 Submission
