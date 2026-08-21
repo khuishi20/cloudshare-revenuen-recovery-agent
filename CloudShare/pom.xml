@@ -8,7 +8,7 @@
 		<version>4.0.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.parth</groupId>
+	<groupId>com.khushi</groupId>
 	<artifactId>cloudshare</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>cloudshare</name>
@@ -120,3 +120,4 @@
 	</build>
 
 </project>
+
